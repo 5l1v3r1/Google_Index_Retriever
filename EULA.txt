@@ -1,0 +1,173 @@
+﻿Effective: 24 April 2015
+
+TELEFÓNICA DIGITAL IDENTITY & PRIVACY, S.L.U. END-USER LICENSE AGREEMENT
+
+Google Index Retriever
+
+IMPORTANT: PLEASE READ THE TERMS AND CONDITIONS OF THIS END USER LICENSE AGREEMENT CAREFULLY BEFORE CONTINUING WITH THIS PROGRAM INSTALL: 
+
+These license terms (hereinafter, the “Terms” or “EULA”) constitute a legal agreement between Telefónica Digital Identity & Privacy, S.L.U., a Spanish company with CIF B86362886 and corporate address Distrito Telefónica. Edificio Central. Ronda de la Comunicación, s/n – 28050 - Madrid (referred to as “TDI&P”) and you (individually if you are agreeing to it in your own capacity, or on behalf of your company or another entity, between the entity for which benefit you act, in which case you state you are the legal representative or are otherwise authorized to legally bind your company, either by power of attorney or otherwise (in either case, “You”, “Your”) with respect to the use by You, of the following TDI&P’ proprietary product: 
+
+-	Google Index Retriever: a tool that tries to get the text back from a removed web, retrieving the content directly and only from the Google search engine index, in cases where the web and cache is not available (hereinafter, the “SOFTWARE PRODUCT”)
+
+These Terms apply to the SOFTWARE PRODUCT, and if applicable, to any: 
+
+•	updates, releases, upgrades, future versions; 
+•	supplements or associated software components;
+•	printed materials, and "online" or electronic documentation;
+•	Internet-based services; and
+•	support services for the SOFTWARE PRODUCT, if any;
+
+of the SOFTWARE PRODUCT.
+
+By (i) electronically accepting the EULA, (ii) executing this EULA, (iii) installing, copying, downloading or otherwise using the SOFTWARE PRODUCT, you completely and unequivocally agree to be bound by these Terms without modification. If you do not accept them or do not intend to be legally bound by the Terms, you should not accept this EULA and therefore should not access, install, download or otherwise use the SOFTWARE PRODUCT. 
+
+The SOFTWARE PRODUCT is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. The SOFTWARE PRODUCT is licensed, not sold. 
+
+1.	GRANT OF LICENSE. LICENSE RESTRICTIONS
+The SOFTWARE PRODUCT license (the “SOFTWARE PRODUCT License”) granted by TDI&P to you under this EULA is a limited, annual, revocable (as provided herein), non-exclusive, non-transferable, worldwide, non-sublicenseable and solely for the purposes set forth in these Terms. The specific use of each SOFTWARE PRODUCT is described in the documentation provided by TDI&P with the SOFTWARE PRODUCT.
+
+This EULA and the SOFTWARE PRODUCT License does not imply for TDI&P any obligation to update the SOFTWARE PRODUCT or to issue any version, releases or upgrades of the SOFTWARE PRODUCT.
+
+1.1	The SOFTWARE PRODUCT License is subject to the following:
+
+1.1.1 	Installation and Use.
+
+TDI&P grants you the SOFTWARE PRODUCT License and the right to install the SOFTWARE PRODUCT on the relevant servers or computers indicated by TDI&P and for which the SOFTWARE PRODUCT was designed, provided that server or computer runs a validly licensed copy of the operating system for which the SOFTWARE PRODUCT was designed (e.g., Windows 2000, Windows 2003, Windows XP, Windows Vista, Windows 8, Windows Server, SharePoint Server, etc.).
+
+The SOFTWARE PRODUCT may be used by you or by any other third party acting on your behalf (those third parties to be appointed and identified at the time of contracting the SOFTWARE PRODUCT, including your employees or subcontractors, hereinafter, the End Users). Such third parties, hereinafter, “End User”. In any case, you shall be liable for any breach by the End User of these Terms as if that breach were your’ s.
+
+A SOFTWARE PRODUCT License is only valid for being used in one piece of hardware (either personal computer or server).
+
+1.1.3 	Backup Copies.
+
+You may make copies of the SOFTWARE PRODUCT as may be necessary for backup and archival purposes provided you also reproduce on such copies any copyright trademark or other proprietary marking and notice contained in the SOFTWARE PRODUCT.
+
+You may not make more copies of the SOFTWARE PRODUCT than specified in these Terms or allowed by applicable law, despite this limitation. 
+
+1.2	With respect to the SOFTWARE PRODUCT License, you further agree that you (and procure that End Users):
+
+(a)	shall not share with or assign, copy, sublicense, transfer, lease, rent, sell, distribute, install, or otherwise provide to any third party (except to any End User) (i) the SOFTWARE PRODUCT License, (ii) the SOFTWARE PRODUCT; (iii) any use or application of the SOFTWARE PRODUCT; and (iv) your rights under this EULA shall not pledge as security or otherwise encumber, the SOFTWARE PRODUCT; 
+(b)	shall comply with any instructions from TDI&P relating to the use of the SOFTWARE PRODUCT:
+(c)	shall (i) not use the SOFTWARE PRODUCT in a manner that is inconsistent with a reasonable good faith use of the SOFTWARE PRODUCT, (ii) not use the SOFTWARE PRODUCT in a manner which, in TDI&P’S reasonable opinion, will (or is likely to) adversely affect the SOFTWARE PRODUCT or other TDI&P’S clients, (iii) not use the SOFTWARE PRODUCT in a manner which may perturb, interfere, distort or damage the TDI&P’s systems, (iv) not use the SOFTWARE fraudulently or in connection with a criminal offence, (v) not use the SOFTWARE PRODCUT to send, knowingly receive, store or communicate any material which is illegal, unlawful, offensive, abusive, indecent, defamatory, obscene or menacing, a nuisance or a hoax or any other type of material likely to cause offence, (vi) not use the SOFTWARE PRODUCT in order to harass, spy on, pester, cause annoyance or unnecessary anxiety to any person, or to pass  as someone else or act in a manner which may be reasonably deemed to be objectionable, or which is in any way harmful to third parties, (vii) not use the SOFTWARE PRODUCT in a way that contravenes any license, code of practice, instructions or guidelines issued by a relevant regulatory authority, (viii) not use the SOFTWARE PRODUCT to spam or to send unsolicited advertising or promotional material, (ix) not use the SOFTWARE PRODUCT to send or transmit anything, content or material which consists of or contains virus software, (x) not use the SOFTWARE PRODUCT in a manner which may damage the reputation of TID&P or any entity within Telefónica Group, the reputation of the SOFTWARE PRODUCT or otherwise bring TID&P into disrepute or the reputation of third parties, (xi) not use the SOFTWARE PRODUCT in any manner which violates copyright, trademark, confidentiality, privacy, or which infringes the intellectual or industrial property rights of others, (xii) hold and will continue to hold any licenses, consents and/or notifications required under any applicable legislation, regulation and/or administrative order to receive and use the SOFTWARE PRODUCT, if any.
+(d)	shall use the SOFTWARE PRODUCT solely (i) for your internal use with your ordinary business operations, (ii) in accordance with all applicable laws and regulations, and (iii) as provided in this EULA and any documentation forming part of the SOFTWARE PRODUCT;
+(e)	shall not use any documentation forming part of the SOFTWARE PRODUCT except for supporting your authorized use of the SOFTWARE PRODUCT;
+(f)	other than as expressly set forth in this EULA, shall not (i) modify, adapt, translate, duplicate, disassemble, decompile, reverse assemble, reverse compile, or reverse engineer, or take similar action with respect to the SOFTWARE PRODUCT for any purpose, or (ii) attempt to discover the underlying source code or algorithms of the SOFTWARE PRODUCT (unless enforcement is prohibited by applicable law and then, only to the extent specifically permitted by applicable law, and then only upon providing TDI&P with reasonable advance written notice and opportunity to respond);
+(g)	for the purpose of designing, modifying, or developing software or services similar in purpose, scope, or function to the SOFTWARE PRODUCT, shall not engage in competitive analysis, benchmarking, use, evaluation or viewing of the SOFTWARE PRODUCT or create any derivatives based upon the SOFTWARE PRODUCT, whether for your internal use or for license or for resale; 
+(h)	shall comply with applicable laws and shall not permit any party, whether acting directly or on behalf of you, to breach or violate any of these restrictions; and
+(g) 	maintenance of copyright notices. You must not remove or alter any copyright notices on any and all copies of the SOFTWARE PRODUCT.
+
+
+2.	SUPPORT SERVICES
+The SOFTWARE PRODUCT is licensed on an “as is”, “as available” basis and therefore no support will be provided. TDI&P has no obligation to provide any support for the SOFTWARE PRODUCT.
+
+3.	FEES
+We will not charge You any fee for the use of the SOFTWARE PRODUCT. However, please note standard data charges may apply when You connect to download /make the integration. These charges will depend on the agreement You have in force with your services provider for Internet access and/or mobile services, depending on how You are connected.
+
+4.	TERMINATION 
+The SOFTWARE PRODUCT License acquired by you is annual. Once the annual term is elapsed, it shall be tacitly renewed for annual periods unless you or TDI&P expresses to the other its intention to terminate the EULA by providing the other with written notice no later than two (2) months before the expiration of the initial annual term or any of its renewals. Such prior notice period shall not apply in case TDI&P decided to stop offering a specific SOFTWARE PRODUCT.
+
+Without prejudice of the foregoing, TDI&P may, immediately, terminate this EULA and the SOFTWARE PRODUCT License granted by TDI&P to you under it, if you fail to comply with any of the terms and conditions of this EULA. Additionally, TDI&P may terminate this EULA immediately in case of (i) TDI&P determines, in its sole discretion, that the provision of the SOFTWARE PRODUCT License to you is prohibited by applicable law or has become impractical or unfeasible for any legal or regulatory reason, (ii) TDI&P determines, in its sole discretion, that you, or any of your End Users, are using the SOFTWARE PRODUCT or are acting in such a way that the SOFTWARE PRODUCT License granted to other clients or any infrastructure related to the SOFTWARE PRODUCT are adversely affected or (iii) TDI&P determines, in its sole discretion, that your use of the SOFTWARE PRODUCT (or the End User’s use) poses a security or service risk that may be subject TDI&P or third party to liability.
+
+Upon the termination or expiration of this EULA, 
+
+a)	SOFTWARE PRODUCT License will automatically and immediately terminate;
+b)	You will immediately cease and desist from all use of the SOFTWARE PRODCUT in any way; and
+c)	You must uninstall and either return or destroy all copies of the SOFTWARE PRODUCT in your possession and provide a written certification executed by you or any of your authorized representatives certifying such action. 
+
+5.	RIGHT TO CANCEL
+
+In accordance with applicable law, if you are a consumer You have the right to cancel this EULA within 14 natural days at no cost by sending an e-mail to contact@support.elevenpaths.com. However, you agree and acknowledge that due to the very nature of this agreement, the right to cancel will not apply once performance of this agreement with the download of the SOFTWARE PRODUCT has been initiated.
+
+
+6.	COPYRIGHT
+All title, including but not limited to copyrights, names, trademarks, trade names, service marks or any other identifying characteristics, in and to the SOFTWARE PRODUCT and any copies thereof are proprietary intellectual property owned by TDI&P or its suppliers. 
+
+This EULA only grants you the limited right to use the SOFTWARE PRODUCT under the terms and restrictions specified in this EULA. You do not, and will not, acquire any other right, title or interest in the SOFTWARE PRODUCT, which will at all times remain the exclusive property of TDI&P or the applicable third party licensor to TDI&P.  
+
+All title and intellectual property rights in and to the content which may be accessed through use of the SOFTWARE PRODUCT is the property of the respective content owner and may be protected by applicable copyright or other intellectual property laws and treaties. This EULA grants you no rights to use such content. All rights not expressly granted are reserved by TDI&P or its relevant owner.
+
+You acknowledge and agree that TDI&P shall be the sole owner of any enhancements, updates, or derivatives of the SOFTWARE PRODUCT which are developed by TDI&P during and after the term of this EULA. Without limiting the foregoing, you expressly acknowledges and agrees that TDI&P shall be the sole owner of any newly-developed intellectual property including but not limited to (i) newly-developed, revised, or modified source code and (ii) inventions where such are related in any way to the SOFTWARE PRODUCT or TDI&P’s general business, regardless of whether such are developed, revised, or modified in response to your requests, suggestions, or ideas, even if performed paid for by you.  During the term of this EULA and thereafter, you shall not assert the invalidity of the TDI&P intellectual property right over the SOFTWARE PRODUCT, or contest TDI&P’s right, title or interest therein and thereto, and you shall not cause, influence, or assist in any manner whatsoever, any other party to make any such assertions or contest.
+
+
+7.	NO WARRANTIES
+TDI&P expressly disclaims any warranty for the SOFTWARE PRODUCT. You expressly understand and agree that the use of the SOFTWARE PRODUCT is at your sole risk. The SOFTWARE PRODUCT is provided “as is” and “as available”. without any express or implied warranty of any kind, including but not limited to any warranties of merchantability, no infringement, or fitness of a particular purpose, including also without warranty that the SOFTWARE PRODUCT will meet your requirements or the use of the SOFTWARE PRODUCT shall be uninterrupted, timely, secure or error free or that the results that may be obtained from the use of the SOFTWARE PRODUCT will be accurate or reliable or that the quality of the SOFTWARE PRODUCT will meet your expectations. TDI&P does not warrant or assume responsibility for the accuracy or completeness of any information, documentation, text, graphics, links or other items contained within the SOFTWARE PRODUCT. TDI&P makes no warranties respecting any harm that may be caused by the transmission of a computer virus, worm, time bomb, logic bomb, or other such computer program. TDI&P further expressly disclaims any warranty or representation to End Users or to any third party.
+
+You agree to hold harmless and indemnify TDI&P and its subsidiaries, affiliates (including any entity within Telefónica Group) officers, agents, employees, advertisers or partners from and against (i) any third party claim arising from or in any way related to your use (or End User’s use) of the SOFTWARE PRODUCT, including but not limited to your use against this EULA (ii) any and all damage as a result of the violation by you or your End User of any applicable regulation and law  or as a result of any other action connected with the use of the SOFTWARE PRODUCT, or as a result of a breach of any of these Terms by your End Users or resulting from your End Users use of the SOFTWARE PRODUCT, (iii) any and all claims against TDI&P made by any of your End Users or third parties related to any services, content or otherwise provided or sent by you (directly or through your End Users) using the SOFTWARE PRODUCT or (iv) any and all damage to any equipment belonging to TDI&P or any other Telefónica Group company caused by your breach or your End Users’ breach of these Terms; including any liability or expense arising from all claims, losses, damages (actual or consequential), suits, judgments, litigation costs and attorneys’ fees, or every kind and nature. In such case, TDI&P will provide you with written notice of such claim, suit or action.
+
+8.	LIMITATION OF LIABILITY
+IN NO EVENT SHALL TDI&P BE LIABLE FOR ANY DAMAGES (INCLUDING, WITHOUT LIMITATION, LOST PROFITS, LOSS OF BUSINESS, BUSINESS INTERRUPTION, OR LOST INFORMATION) ARISING OUT OF YOUR USE OF OR INABILITY TO USE THE SOFTWARE PRODUCT (INCLUDING YOUR END USER’S USE OR INABILITY TO USE THE SOFTWARE PRODUCT), THE COST OF PROCUREMENT OR SUBSITITUTE GOODS AND SERVICES, STATEMENT OR CONDUCT OF ANY THIRD PARTY SERVICES OR PRODUCTS, EVEN IF TDI&P HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+
+IN NO EVENT WILL TDI&P BE LIABLE FOR LOSS OF DATA OR FOR INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL (INCLUDING LOST PROFITS OR LOSS OF BUSINESS, WHETHER DIRECT OR INDIRECT, LOSS OR CORRUPTION OF DATA), OR FOR ANY OTHER INDIRECT OR CONSEQUENTIAL LOSS OR DAMAGES BASED IN CONTRACT, TORT OR OTHERWISE. 
+
+TDI&P SHALL HAVE NO LIABILITY WITH RESPECT TO THE CONTENT OF THE SOFTWARE PRODUCT OR ANY PART THEREOF, INCLUDING BUT NOT LIMITED TO ERRORS OR OMISSIONS CONTAINED THEREIN, LIBEL, INFRINGEMENTS OF RIGHTS OF PUBLICITY, PRIVACY, TRADEMARK RIGHTS, BUSINESS INTERRUPTION, PERSONAL INJURY, LOSS OF PRIVACY, MORAL RIGHTS OR THE DISCLOSURE OF CONFIDENTIAL INFORMATION. 
+
+IN ANY CASE, TDI&P MAXIMUM AGGREGATE LIABILITY FOR ALL DAMAGES ARISING OUT OF OR RELATED TO THIS EULA OR THE SOFTWARE PRODUCT SHALL BE LIMITED TO FIVE (5) EUROS.
+
+NOTHING IN THIS AGREEMENT SHALL EXCLUDE OR RESTRICT THE LIABILITY OF EITHER PARTY FOR: (I) DEATH OR PERSONAL INJURY RESULTING FROM THAT PARTY’S NEGLIGENCE; OR (II) FRAUD OR FRAUDULENT MISREPRESENTATION.
+
+NOTHING IN THIS AGREEMENT SHALL EXCLUDE OR RESTRICT THE LIABILITY OF EITHER PARTY IN RESPECT OF ANY LIABILITY WHICH CANNOT BE EXCLUDED OR RESTRICTED BY LAW.
+
+
+9.	CONFIDENTIALITY 
+You undertake to treat as strictly private and confidential and not to disclose to third parties any information, data, news or document in any medium relating to the SOFTWARE PRODUCT which you obtain or receive as a result of entering into or performing this EULA (the “Confidential Information”). 
+
+The undertaking set out in the paragraph above will not be deemed to be breached if information, news, data and/or documents are already in the public domain when disclosed or the disclosure of such information is required by law or an authority orders the total or partial disclosure of the Confidential Information.  
+
+For the purposes of this section, Confidential Information includes TDI&P system, any document, business offer, order or presentation given by TDI&P to you, related to TDI&P business partners’ technology, clients, business plan, promotional and marketing activities, finances and other business affairs.
+
+The confidentiality obligations established herein shall survive termination of the EULA and shall continue until any of the exception included in this section applies.
+
+If you are required by statute, applicable law or regulation or by legal or regulatory authority, process or proceeding to disclose any Confidential Information, you shall provide TDI&P with a reasonably adequate notice (if permitted by law, regulatory or the relevant authority) of such requirement so that TDI&P may timely seek a protective order or other appropriate remedy or waive compliance with the terms of this section. You also agree to cooperate with TDI&P in its efforts to so obtain such a protective order or other remedy. In the event that such protective order or other remedy is not obtained, you shall permit hereunder to furnish only that portion of the Confidential Information that it is advised by opinion of counsel it is legally required to disclose and shall exercise reasonable efforts to obtain assurance that confidential treatment will be accorded such Confidential Information.
+
+10.	NOTICES
+To You:
+Except as otherwise set forth herein, notices made by TDI&P to you under this EULA will be provided to You via the email address provided by you to TDI&P in the registration process you followed when you acquired the SOFTWARE PRODUCT or in any updated email address you provide TDI&PUs. It is your responsibility to keep your email address current and you will be deemed to have received any email sent to any such email address, upon TDI&P’s sending of the email, whether or not you actually receive the email. 
+
+To TDI&P:
+For notices made by you to TDI&P under this Agreement and for questions regarding this EULA or the SOFTWARE PRODUCT, you may contact us through contact@support.elevenpaths.com.
+
+
+11.	GOVERNING LAW
+These Terms and the EULA shall be governed by Spanish Law.
+
+The parties agree to submit any disagreement in the interpretation and execution of these Terms and the EULA to the courts and tribunals of the city of Madrid, unless otherwise provided under mandatory law.
+
+
+12.	ASSIGNMENT AND SUBCONTRACTING
+You may not assign these Terms and EULA or otherwise transfer any of its rights or obligations, the licenses or any other right, without the prior written consent of TDI&P.
+
+TDI&P, upon prior, written notice (including by email) to you and without your consent, assign or otherwise transfer these Terms to a third party, whether a member of the Telefónica Group or not. 
+
+TDI&P may at any time subcontract part or all of its obligations hereunder.
+
+
+13.	NON-WAIVER
+The failure or delay by either party to this EULA to exercise or enforce any right, power or remedy under this EULA shall not be deemed to operate as a waiver of any such right, power or remedy; nor shall any single or partial exercise by any party operate so as to bar the exercise or enforcement thereof or of any right, power or remedy on any later occasion.
+
+
+14.	ENTIRE AGREEMENT AND MODIFICATION
+
+These Terms and EULA, any addendum or amendment to them, are the entire agreement for the SOFTWARE PRODUCT License (including the Support Services).
+
+We may modify this EULA at any time by publishing the new version on www.elevenpaths.com at least 30 days before they become effective. The new EULA will be applicable to You upon it become effective, unless you exercise your termination right by sending an e-mail to contact@support.elevenpaths.com before the EULA is due to become effective. Your continued use of the service signifies your acceptance of such modification. You should periodically visit the page www.elevenpaths.com to review the current EULA. TDI&P may (but is not obliged to) notify such modification either by sending an e-mail to the e-mail address or a text message to the mobile number You provided when registering to the service
+
+ 
+TEMPLATE TO EXERCISE THE RIGHT TO CANCEL (APPLICABLE ONLY IF YOU ARE A CONSUMER)
+
+You should only send fill in this template and send it in case you wish to exercise your right to cancel this EULA. 
+In accordance with applicable law, if you are a consumer You have the right to cancel this EULA within 14 natural days at no cost from the date of acceptance of the EULA by sending an e-mail to contact@support.elevenpaths.com. However, you agree and acknowledge that due to the very nature of this agreement, the right to cancel will not apply once performance of this agreement with the download of the SOFTWARE PRODUCT has been initiated.
+In order to exercise your right to cancel you can (but are not obliged to) use this template.
+
+To the attention of:
+Telefónica Digital Identity & Privacy, S.L.U., 
+Ronda de la Comunicación, s/n (Distrito Telefónica). 
+Edificio Central. 28050 - Madrid  
+e-mail: contact@support.elevenpaths.com
+The purpose of this letter is to notify my decision to exercise my right to cancel the end user license agreement to the SOFTWARE PRODUCT.
+
+Please include Your name: --------------- 
+Your address: ---------------------
+Signature (to be signed only if sent by letter) 
+Date:
+
